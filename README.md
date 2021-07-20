@@ -15,8 +15,7 @@ Infect Anyone
 </p>
 
 ###### <p align="center">*This is **official** repository maintained by us*
-######  <p align="center">*[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-######  <p align="center">*You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+######  <p align="center">*[**Inspired By Jenny**] ❤️*
 ---
 ## <p align="center"> What is **BloodyRat**??
 #### <p align="center"> A **Bloody RAT** or Bloody remote administration tool, is software that gives a person full control of a tech device, remotely. The Bloody RAT gives the user access to your system, just as if they had physical access to your device. With this access, the person can access your files, use your camera, and even turn on/off your device.
